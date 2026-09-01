@@ -12,7 +12,9 @@ This repository showcases my activities and outputs completed during the **Preli
 
 <br>
 
----
+──────────── ✦ ────────────
+
+<br>
 
 ## ✦ PORTFOLIO OVERVIEW ✦
 
@@ -24,17 +26,21 @@ This digital portfolio documents my learning journey through activities involvin
 
 📊 **Social Media Infographics & Mini Project Documentation**
 
----
+<br>
+
+──────────── ✦ ────────────
 
 </div>
 
-<br>
-
-# 🌷 ACTIVITY 1
+<br><br>
 
 <div align="center">
 
+# ୨୧ ACTIVITY 1 ୨୧
+
 ### Presentation Design Principles
+
+⋆｡°✩ ───────── ✩°｡⋆
 
 <br>
 
@@ -48,7 +54,7 @@ This digital portfolio documents my learning journey through activities involvin
 
 This activity focuses on the application of presentation design principles to create a visually organized and engaging presentation.
 
-### 💭 My Work
+### ✦ My Work
 
 **Arrupe Hall**
 
@@ -64,13 +70,23 @@ These design choices helped improve _______________________________________.
 
 <br>
 
----
+<div align="center">
+
+──────────── ✦ ────────────
+
+</div>
 
 <br>
 
-# 🎨 ACTIVITY 2
-
 <div align="center">
+
+# ୨୧ ACTIVITY 2 ୨୧
+
+### Color Palette & Typography
+
+⋆｡°✩ ───────── ✩°｡⋆
+
+<br>
 
 <img src="./Activity%202/activity%202-1.png" width="500">
 
@@ -94,33 +110,39 @@ These design choices helped improve _______________________________________.
 
 This activity explores the importance of color palettes and typography in creating a visually appealing design.
 
-### 🎨 Color Palette
+### ✦ Color Palette
 
 The colors I selected were _______________________________________________.
 
 I chose these colors because _____________________________________________.
 
-### 🖋️ Typography
+### ✦ Typography
 
 The typography I selected was ____________________________________________.
 
 I chose these fonts because ______________________________________________.
 
-### 💭 Design Concept
+### ✦ Design Concept
 
 The overall concept of my design was ______________________________________.
 
 <br>
 
----
+<div align="center">
+
+──────────── ✦ ────────────
+
+</div>
 
 <br>
 
-# 📊 ACTIVITY 3
-
 <div align="center">
 
+# ୨୧ ACTIVITY 3 ୨୧
+
 ### Social Media Infographics & Mini Project Documentation
+
+⋆｡°✩ ───────── ✩°｡⋆
 
 <br>
 
@@ -138,27 +160,35 @@ The overall concept of my design was ______________________________________.
 
 For this activity, I created an infographic that focuses on __________________.
 
-### 💡 Concept
+### ✦ Concept
 
 The main concept behind my infographic was ________________________________.
 
-### 🎨 Design Choices
+### ✦ Design Choices
 
 I selected the colors, typography, and visual elements because ______________.
 
-### 🛠️ Creative Process
+### ✦ Creative Process
 
 I developed my final output by ___________________________________________.
 
 <br>
 
----
+<div align="center">
 
-<br>
+──────────── ✦ ────────────
+
+</div>
+
+<br><br>
 
 <div align="center">
 
 # 🌱 MY LEARNING JOURNEY
+
+⋆｡°✩ ───────── ✩°｡⋆
+
+<br>
 
 Through these activities, I learned how effective presentation design can improve the way ideas and information are communicated.
 
@@ -166,7 +196,9 @@ I learned that the proper use of **design principles, color palettes, typography
 
 <br>
 
----
+──────────── ✦ ────────────
+
+<br>
 
 ### ✦ Thank you for visiting my digital portfolio! ✦
 
