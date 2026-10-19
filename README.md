@@ -8,7 +8,7 @@
 
 *Welcome to my digital portfolio!*
 
-This repository showcases my activities and outputs completed during the **Prelim Period** for GE 4120: *21st Century IT Skills*.
+This repository showcases my activities, presentations, and learning outputs completed during the **Prelim and Midterm Periods** for GE 4120: *21st Century IT Skills*.
 
 <br>
 
@@ -25,6 +25,8 @@ This digital portfolio documents my learning journey through activities involvin
 🖋️ **Color Palette & Typography**
 
 📊 **Social Media Infographics & Mini Project Documentation**
+
+💻 **Presentation Exam — Google Docs**
 
 <br>
 
@@ -226,6 +228,58 @@ Through this activity, I learned that creating an infographic is not only about 
 ──────────── ✦ ────────────
 
 </div>
+
+<br>
+
+<h1 align="center">୨୧ PRESENTATION EXAM ୨୧</h1>
+
+<h3 align="center">Midterm Group Reporting — Google Docs</h3>
+
+<p align="center">⋆｡°✩ ───────── ✩°｡⋆</p>
+
+<br>
+
+<p align="center">
+  <img src="./Presentation%20Exam/presentation-preview.png" width="700" alt="Google Docs Group Presentation Preview">
+</p>
+
+<p align="center">
+  <a href="./Presentation%20Exam/GE-4120-GROUP-5-ELECTIVE-SLIDES.pdf"><b>✦ View Our Presentation Slides (PDF) ✦</b></a>
+</p>
+
+<br>
+
+### ✦ About This Presentation
+
+**Google Docs: Features, Functions, and Practical Applications**
+
+For our Midterm Presentation Exam in GE 4120: 21st Century IT Skills, our group was assigned to discuss **Google Docs**, a cloud-based word-processing application that allows users to create, edit, organize, and collaborate on documents online.
+
+Our presentation focused on the different features and functions of Google Docs, including **document creation, text formatting, collaboration, sharing permissions, version history, and other tools that support productivity and digital communication**. We also discussed how these features can be applied in academic activities and other situations that require effective document management.
+
+As part of our group reporting, we incorporated an interactive activity to encourage participation and assess our classmates' understanding of the topic.
+
+### ✦ Presentation Design & Organization
+
+For our presentation, we used a **retro computer-inspired design** with blue, black, white, and gray elements. The overall layout was intended to resemble a digital interface, incorporating window frames, cursor graphics, and other computer-related visuals to complement our topic.
+
+We organized the presentation into sections to introduce Google Docs, explain its purposes and features, and demonstrate how it can be used. We also included examples and visual references to support the explanations and make the discussion easier to follow.
+
+Throughout the presentation, we considered **visual hierarchy, contrast, alignment, and consistency** to maintain a structured and recognizable appearance. Although the presentation contained a considerable amount of information, we tried to organize the content in a way that would help the audience understand the discussion.
+
+### ✦ Personal Reflection
+
+Through this presentation exam, I was able to deepen my understanding of Google Docs and its importance as a digital productivity tool. While I was already familiar with some of its basic features, preparing for the group reporting helped me recognize that Google Docs offers more than simply typing and editing documents. Its collaboration, sharing, and organization features can make academic work more efficient, especially when several people are working on the same output.
+
+This activity also highlighted the importance of **teamwork, communication, preparation, and presentation skills**. Working on a group presentation requires not only understanding the assigned topic but also organizing information, coordinating with group members, and considering how the discussion will be delivered to the audience.
+
+Overall, this experience helped me appreciate how digital tools can support both individual productivity and collaborative learning. It reminded me that developing 21st-century IT skills involves not only learning how to use technology but also understanding how to apply it effectively and responsibly in academic and professional settings.
+
+<br>
+
+<p align="center">──────────── ✦ ────────────</p>
+
+<br>
 
 <div align="center">
 
